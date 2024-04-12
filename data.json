@@ -1,0 +1,672 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@vocab": "https://tropy.org/v1/tropy#",
+    "template": {
+      "@type": "@id"
+    },
+    "photo": {
+      "@id": "https://tropy.org/v1/tropy#photo",
+      "@container": "@list"
+    },
+    "note": {
+      "@id": "https://tropy.org/v1/tropy#note",
+      "@container": "@list"
+    },
+    "selection": {
+      "@id": "https://tropy.org/v1/tropy#selection",
+      "@container": "@list"
+    },
+    "title": "http://purl.org/dc/elements/1.1/title",
+    "date": {
+      "@id": "http://purl.org/dc/elements/1.1/date",
+      "@type": "https://tropy.org/v1/tropy#date"
+    }
+  },
+  "@graph": [
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31507r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "6daefe808e766da69e587b6875200881",
+          "color": "rgb(216,216,200,1)",
+          "density": null,
+          "filename": "31507r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/6daefe808e766da69e587b6875200881.png",
+          "protocol": "file",
+          "size": 8296432,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4408,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 5750,
+          "date": "2024-04-12T08:02:44.369Z",
+          "title": "31507r",
+          "selection": [
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 752,
+              "y": 268,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 842,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 445,
+              "title": {
+                "@type": "text",
+                "@value": "griglia"
+              }
+            },
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 4701,
+              "y": 417,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 352,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 303,
+              "title": {
+                "@type": "text",
+                "@value": "pin"
+              }
+            },
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 4198,
+              "y": 2712,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 744,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 316,
+              "title": {
+                "@type": "text",
+                "@value": "graffa"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31507v",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "436003be9b9a765d2c237a9399b4548d",
+          "color": "rgb(216,216,200,1)",
+          "density": null,
+          "filename": "31507v.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/436003be9b9a765d2c237a9399b4548d.png",
+          "protocol": "file",
+          "size": 4999987,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4424,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 5822,
+          "date": "2024-04-12T08:02:44.369Z",
+          "title": "31507v"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31508r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "6a9d2e1b9593f46b1ba408b7f9a0ac3f",
+          "color": "rgb(216,200,184,1)",
+          "density": null,
+          "filename": "31508r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/6a9d2e1b9593f46b1ba408b7f9a0ac3f.png",
+          "protocol": "file",
+          "size": 10293197,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 5868,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 4432,
+          "date": "2024-04-12T08:02:44.369Z",
+          "title": "31508r"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31508v",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "bf37119f28a1b553f7458d8ba3cd3f4c",
+          "color": "rgb(216,216,200,1)",
+          "density": null,
+          "filename": "31508v.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/bf37119f28a1b553f7458d8ba3cd3f4c.png",
+          "protocol": "file",
+          "size": 8641673,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 5849,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 4436,
+          "title": "31508v",
+          "date": "2024-04-12T08:02:44.369Z"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31509r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "87641ba00a81f8877ed2e4017b76c7f5",
+          "color": "rgb(232,216,200,1)",
+          "density": null,
+          "filename": "31509r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/87641ba00a81f8877ed2e4017b76c7f5.png",
+          "protocol": "file",
+          "size": 3114462,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4448,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 5823,
+          "date": "2024-04-12T08:02:44.366Z",
+          "title": "31509r"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31510r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "7904c9d69cdf5adae23f7f55ac7d13d8",
+          "color": "rgb(200,184,152,1)",
+          "density": null,
+          "filename": "31510r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/7904c9d69cdf5adae23f7f55ac7d13d8.png",
+          "protocol": "file",
+          "size": 44751706,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 6944,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 8304,
+          "date": "2024-04-12T08:02:44.366Z",
+          "title": "31510r",
+          "selection": [
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 2471,
+              "y": 1238,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 3623,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 1825,
+              "title": {
+                "@type": "text",
+                "@value": "pianta"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31511r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "e31489b7878f6482cb2a8d238d40c3dd",
+          "color": "rgb(200,184,152,1)",
+          "density": null,
+          "filename": "31511r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/e31489b7878f6482cb2a8d238d40c3dd.png",
+          "protocol": "file",
+          "size": 21196589,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 7496,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 4678,
+          "date": "2024-04-12T08:02:44.366Z",
+          "title": "31511r"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31511v",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "26784dc834b8eb9251d627fafa79cdb2",
+          "color": "rgb(216,200,184,1)",
+          "density": null,
+          "filename": "31511v.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/26784dc834b8eb9251d627fafa79cdb2.png",
+          "protocol": "file",
+          "size": 10554720,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4620,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 7440,
+          "title": "31511v",
+          "date": "2024-04-12T08:02:44.366Z"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31512r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "ec8df499b77daadec248029bc5bf1680",
+          "color": "rgb(200,184,136,1)",
+          "density": null,
+          "filename": "31512r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/ec8df499b77daadec248029bc5bf1680.png",
+          "protocol": "file",
+          "size": 83676581,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 8775,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 12889,
+          "title": "31512r",
+          "date": "2024-04-12T00:16:16.947Z",
+          "selection": [
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 5679,
+              "y": 5815,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 1455,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 1559,
+              "title": {
+                "@type": "text",
+                "@value": "cerchi"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31512v",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "685654e33ebcc35646aad154e4f2db6c",
+          "color": "rgb(200,200,184,1)",
+          "density": null,
+          "filename": "31512v.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/685654e33ebcc35646aad154e4f2db6c.png",
+          "protocol": "file",
+          "size": 29530703,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 8793,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 12942,
+          "date": "2024-04-11T23:36:28.156Z",
+          "title": "31512v"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31513r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "41b861dc3f228d8221b91a45d458f9d8",
+          "color": "rgb(232,216,200,1)",
+          "density": null,
+          "filename": "31513r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/41b861dc3f228d8221b91a45d458f9d8.png",
+          "protocol": "file",
+          "size": 3223418,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4432,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 5856,
+          "date": "2024-04-11T23:36:28.156Z",
+          "title": "31513r",
+          "selection": [
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 2235,
+              "y": 557,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 925,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 885,
+              "title": {
+                "@type": "text",
+                "@value": "matematica"
+              }
+            },
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 595,
+              "y": 1165,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 1290,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 1614,
+              "title": {
+                "@type": "text",
+                "@value": "scale"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31513v",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "138d6ebaf9485b024a897031daafafc5",
+          "color": "rgb(216,216,200,1)",
+          "density": null,
+          "filename": "31513v.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/138d6ebaf9485b024a897031daafafc5.png",
+          "protocol": "file",
+          "size": 3314499,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4448,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 5840,
+          "title": "31513v",
+          "date": "2024-04-11T23:36:28.156Z"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31562rb",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "bb2530334d90ca10874b81e683911511",
+          "color": "rgb(248,248,248,1)",
+          "density": null,
+          "filename": "31562rb.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/bb2530334d90ca10874b81e683911511.png",
+          "protocol": "file",
+          "size": 865466,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 4640,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 6384,
+          "title": "31562rb",
+          "date": "2024-04-11T23:37:47.051Z"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31565r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "33ded3d33d44437e1f94c45ac9d846b2",
+          "color": "rgb(248,248,248,1)",
+          "density": null,
+          "filename": "31565r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/33ded3d33d44437e1f94c45ac9d846b2.png",
+          "protocol": "file",
+          "size": 162241,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 3096,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 4308,
+          "title": "31565r",
+          "date": "2024-04-11T23:37:50.322Z"
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/generic",
+      "title": "31582r",
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "279ae3a3d3de92eabe02c83577e8f633",
+          "color": "rgb(184,168,120,1)",
+          "density": null,
+          "filename": "31582r.png",
+          "mimetype": "image/png",
+          "orientation": 1,
+          "page": 0,
+          "path": "/Users/giorgiouboldi/Desktop/test-annotation.tropy/assets/279ae3a3d3de92eabe02c83577e8f633.png",
+          "protocol": "file",
+          "size": 65248757,
+          "template": "https://tropy.org/v1/templates/photo",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 5232,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 12676,
+          "title": "31582r",
+          "date": "2024-04-11T23:36:28.157Z"
+        }
+      ]
+    }
+  ],
+  "version": "1.16.2"
+}
